@@ -5,7 +5,7 @@ export default defineConfig({
   publicPath: '/react-components/',
   outputPath: 'docs-dist',
   themeConfig: {
-    name: 'yxhooks',
+    name: 'react-components',
   },
   resolve: {
     atomDirs: [
