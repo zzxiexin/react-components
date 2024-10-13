@@ -1,11 +1,11 @@
 import { defineConfig } from 'dumi';
 
 export default defineConfig({
-  base: '/react-components/',
-  publicPath: '/react-components/',
+  base: '/@zzxiexin/react-components/',
+  publicPath: '/@zzxiexin/react-components/',
   outputPath: 'docs-dist',
   themeConfig: {
-    name: 'react-components',
+    name: '@zzxiexin/react-components',
   },
   resolve: {
     atomDirs: [

@@ -1,7 +1,7 @@
-# react-components
+# @zzxiexin/react-components
 
-[![NPM version](https://img.shields.io/npm/v/react-components.svg?style=flat)](https://npmjs.org/package/react-components)
-[![NPM downloads](http://img.shields.io/npm/dm/react-components.svg?style=flat)](https://npmjs.org/package/react-components)
+[![NPM version](https://img.shields.io/npm/v/@zzxiexin/react-components.svg?style=flat)](https://npmjs.org/package/@zzxiexin/react-components)
+[![NPM downloads](http://img.shields.io/npm/dm/@zzxiexin/react-components.svg?style=flat)](https://npmjs.org/package/@zzxiexin/react-components)
 
 A react library developed with dumi
 
