@@ -1,6 +1,6 @@
 # 介绍
 
-yxhooks，是一套高质量可靠的 React 组件库。在当前 React 项目研发过程中，一套好用的React组件库是必不可少的，希望 yxhooks 能成为您的选择。
+@zzxiexin/ui，是一套高质量可靠的 React 组件库。在当前 React 项目研发过程中，一套好用的React组件库是必不可少的，希望 @zzxiexin/ui 能成为您的选择。
 
 ## 特性
 
@@ -13,13 +13,13 @@ yxhooks，是一套高质量可靠的 React 组件库。在当前 React 项目�
 ## 安装
 
 ```bash
-$ npm install --save yxhooks
+$ npm install --save @zzxiexin/ui
 # or
-$ yarn add yxhooks
+$ yarn add @zzxiexin/ui
 # or
-$ pnpm add yxhooks
+$ pnpm add @zzxiexin/ui
 # or
-$ bun add yxhooks
+$ bun add @zzxiexin/ui
 ```
 
 ## 使用
@@ -30,4 +30,4 @@ $ bun add yxhooks
 
 ## 💻 在线体验
 
-[![Edit demo for yxhooks](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/demo-for-yxhooks-forked-fg79k?file=/src/App.js)
+[![Edit demo for @zzxiexin/ui](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/demo-for-@zzxiexin/ui-forked-fg79k?file=/src/App.js)
