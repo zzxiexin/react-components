@@ -1,11 +1,11 @@
 import { defineConfig } from 'dumi';
 
 export default defineConfig({
-  base: '/@zzxiexin/react-components/',
-  publicPath: '/@zzxiexin/react-components/',
+  base: '/@zzxiexin/ui/',
+  publicPath: '/@zzxiexin/ui/',
   outputPath: 'docs-dist',
   themeConfig: {
-    name: '@zzxiexin/react-components',
+    name: '@zzxiexin/ui',
   },
   resolve: {
     atomDirs: [
@@ -14,4 +14,14 @@ export default defineConfig({
       { type: 'util', dir: './src/utils' },
     ],
   },
+  styles: [
+    `.dumi-default-header-left {
+       width: 320px !important;
+    }
+    #component-demo {
+      display: flex;
+      flex-direction: row;
+      gap: 15px;
+    }`,
+  ],
 });

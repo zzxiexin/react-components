@@ -15,7 +15,7 @@ features:
     description: 业务开发中react常用组件积淀，开箱即用
   - title: hooks
     emoji: 🌈
-    description: 覆盖react项目开发主要hook，提高开发效率
+    description: 覆盖业务开发常用hooks，提高开发效率
   - title: 工具
     emoji: 🚀
     description: 业务中常用函数、方法封装，直接调用，避免重复封装

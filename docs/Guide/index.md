@@ -1,6 +1,6 @@
 # 介绍
 
-react-components，是一套高质量可靠的 React Hooks 库。在当前 React 项目研发过程中，一套好用的 React Hooks 库是必不可少的，希望 @zzxiexin/react-components 能成为您的选择。
+@zzxiexin/ui，是一套高质量可靠的 React 组件库。在当前 React 项目研发过程中，一套好用的React组件库是必不可少的，希望 @zzxiexin/ui 能成为您的选择。
 
 ## 特性
 
@@ -13,13 +13,13 @@ react-components，是一套高质量可靠的 React Hooks 库。在当前 React
 ## 安装
 
 ```bash
-$ npm install --save @zzxiexin/react-components
+$ npm install --save @zzxiexin/ui
 # or
-$ yarn add @zzxiexin/react-components
+$ yarn add @zzxiexin/ui
 # or
-$ pnpm add @zzxiexin/react-components
+$ pnpm add @zzxiexin/ui
 # or
-$ bun add @zzxiexin/react-components
+$ bun add @zzxiexin/ui
 ```
 
 ## 使用
@@ -30,4 +30,4 @@ $ bun add @zzxiexin/react-components
 
 ## 💻 在线体验
 
-[![Edit demo for @zzxiexin/react-components](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/demo-for-@zzxiexin/react-components-forked-fg79k?file=/src/App.js)
+[![Edit demo for @zzxiexin/ui](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/demo-for-@zzxiexin/ui-forked-fg79k?file=/src/App.js)
