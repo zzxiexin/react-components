@@ -13,6 +13,8 @@ export type ButtonType =
 
 export type ButtonSize = undefined | 'large' | 'small';
 
+export type ThrottleRender = React.ReactElement
+
 export type ButtonProps = Omit<
   React.ButtonHTMLAttributes<HTMLAnchorElement | HTMLButtonElement>,
   'type'
@@ -29,6 +31,7 @@ export type ButtonProps = Omit<
     icon: React.ReactNode;
     debounce: number | boolean;
     throttle: number | boolean;
+    throttleDom: ThrottleRender
   }>;
 
 const prefixCls = getPrefixCls('btn');
@@ -44,6 +47,7 @@ export default function Button({
   debounce,
   throttle,
   onClick,
+  throttleDom,
   ...rest
 }: ButtonProps) {
   const [disabledToState, setDisabledToState] = useState(disabled);
@@ -116,7 +120,7 @@ export default function Button({
       }}
     >
       {icon}
-      {throttle && count ? <div>{count}s后可点击</div> : null}
+      {throttle && count ? <div>{count}{throttleDom ? throttleDom : `s后可点击`}</div> : null}
       {throttle && count ? null : children}
     </button>
   );

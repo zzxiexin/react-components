@@ -31,20 +31,15 @@ group:
 配置倒计时按钮，在配置的时间过后才可点击。
 <code src="./demo/canClick.tsx"></code>
 
+### 节流
+
+配置倒计时按钮，在配置的时间过后才可点击。
+<code src="./demo/throttle.tsx"></code>
+
 ### 幽灵
 
 幽灵按钮将按钮的内容反色，背景变为透明，常用在有色背景上
 <code src="./demo/ghost.tsx"></code>
-<!-- 
-### block
-
-block 属性将使按钮适合其父宽度。
-<code src="./demo/block.tsx"></code> -->
-
-<!-- ### 加载中
-
-添加 loading 属性即可让按钮处于加载状态，最后两个按钮演示点击后进入加载状态。
-<code src="./demo/loading.tsx"></code> -->
 
 ### 圆形按钮
 
