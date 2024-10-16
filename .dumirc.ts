@@ -1,11 +1,11 @@
 import { defineConfig } from 'dumi';
 
 export default defineConfig({
-  base: '/@zzxiexin/ui/',
-  publicPath: '/@zzxiexin/ui/',
+  base: '/yxhooks/',
+  publicPath: '/yxhooks/',
   outputPath: 'docs-dist',
   themeConfig: {
-    name: '@zzxiexin/ui',
+    name: 'yxhooks',
   },
   resolve: {
     atomDirs: [

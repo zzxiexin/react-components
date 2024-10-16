@@ -1,7 +1,7 @@
-# @zzxiexin/ui
+# yxhooks
 
-[![NPM version](https://img.shields.io/npm/v/@zzxiexin/ui.svg?style=flat)](https://npmjs.org/package/@zzxiexin/ui)
-[![NPM downloads](http://img.shields.io/npm/dm/@zzxiexin/ui.svg?style=flat)](https://npmjs.org/package/@zzxiexin/ui)
+[![NPM version](https://img.shields.io/npm/v/yxhooks.svg?style=flat)](https://npmjs.org/package/yxhooks)
+[![NPM downloads](http://img.shields.io/npm/dm/yxhooks.svg?style=flat)](https://npmjs.org/package/yxhooks)
 
 A react library developed with dumi
 
