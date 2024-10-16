@@ -1,5 +1,5 @@
 import React from 'react';
-import { Button } from '@zzxiexin/ui';
+import { Button } from 'yxx-component';
 
 export default function App() {
   return (

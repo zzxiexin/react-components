@@ -1,7 +1,7 @@
-# @zzxiexin/ui
+# yxx-component
 
-[![NPM version](https://img.shields.io/npm/v/@zzxiexin/ui.svg?style=flat)](https://npmjs.org/package/@zzxiexin/ui)
-[![NPM downloads](http://img.shields.io/npm/dm/@zzxiexin/ui.svg?style=flat)](https://npmjs.org/package/@zzxiexin/ui)
+[![NPM version](https://img.shields.io/npm/v/yxx-component.svg?style=flat)](https://npmjs.org/package/yxx-component)
+[![NPM downloads](http://img.shields.io/npm/dm/yxx-component.svg?style=flat)](https://npmjs.org/package/yxx-component)
 
 A react library developed with dumi
 
